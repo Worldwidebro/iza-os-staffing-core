@@ -1,0 +1,10 @@
+{
+  "name": "iza-os-sector-core",
+  "version": "0.1.0",
+  "description": "IZA OS Core — Sector Dashboard",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
